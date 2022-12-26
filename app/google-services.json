@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "390174482774",
+    "project_id": "evil-joker-96def",
+    "storage_bucket": "evil-joker-96def.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:390174482774:android:a0abe44c4bf143b1fff6f7",
+        "android_client_info": {
+          "package_name": "com.eviljoker.jokerevil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "390174482774-21vv40phu1abj26rjkok787jfnb0mr8i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBCJnyzX0jiILR4_26Meos-kdO9rMwbjvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "390174482774-21vv40phu1abj26rjkok787jfnb0mr8i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
